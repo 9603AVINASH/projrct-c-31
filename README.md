@@ -1,1 +1,2 @@
-# projrct-c-31
+# zombie-crush-assets
+assests for crush the zombie game
